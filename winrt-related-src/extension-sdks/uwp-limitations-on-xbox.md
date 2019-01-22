@@ -51,6 +51,7 @@ This topic lists some of the feature areas that your UWP app might use that donâ
 | HumanInterfaceDevice Protocol APIs         | [**HumanInterfaceDevice**](https://msdn.microsoft.com/library/windows/apps/dn264174) APIs are not supported on Xbox. |
 | Inking                                     | [**Inking**](https://msdn.microsoft.com/library/windows/apps/br208524) APIs are not supported on Xbox. |
 | LockScreen                                 | The lock screen feature is not available on Xbox, so [**LockScreen**](https://msdn.microsoft.com/library/windows/apps/dn946802) APIs are not supported. |
+| Mouse                                      | Mouse input is not supported. |
 | Network Connectivity                       | [**NetworkUsage**](https://msdn.microsoft.com/library/windows/apps/dn303657), [**ConnectivityInterval**](https://msdn.microsoft.com/library/windows/apps/dn266097), [**NetworkInformation**](https://msdn.microsoft.com/library/windows/apps/br207293), and [**DataPlanStatus**](https://msdn.microsoft.com/library/windows/apps/br207256) APIs are not supported on Xbox. |
 | Network Operators API                      | APIs related to Network Operators require modem support, which is not present on Xbox. See [**Windows.Networking.NetworkOperators**](https://msdn.microsoft.com/library/windows/apps/br241148). |
 | Near Field Communication (NFC)             | [**NFC**](https://msdn.microsoft.com/library/windows/apps/br241250) APIs are not supported on Xbox, so proximity APIs aren't supported.  |
